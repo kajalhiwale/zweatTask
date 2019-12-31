@@ -1,0 +1,92 @@
+*{
+    margin:0px; padding:0px; box-sizing:border-box;
+  }
+  /* navbar css */
+  nav{
+        background-color:#fcfcfd;
+        box-sizing:rgba(0,0,0,0.2); ;
+        height: 10vh;width:95%;
+        margin-top:30px; 
+        margin-left:30px;
+       
+    }
+    .nav-link, .icon {
+      color:#000;
+      font-weight: normal;
+      margin-top:8px;
+      font-size: 20px;
+    }
+    
+    .logo{
+      margin-left:400px;
+      font-size:30px;
+      color:rgb(245, 113, 37);
+    }
+    
+  .input-icons i { 
+      position: absolute;
+      margin:5px 0px 0px 5px; 
+     }
+  .input-field {  
+    text-align: center; 
+    background-color: rgb(223, 222, 222);
+    width: 130px;
+    margin-top: 3px;
+       }
+       form{
+         margin-right: 20px;
+       }
+       .fa-shopping-bag {
+         color:#000;
+         margin-top: 5px;
+         font-size: 20px;
+       }
+       body {
+        font-family: "Lato", sans-serif;
+      }
+      
+      .sidenav {
+        width: 250px;
+        position: absolute;
+        z-index: 1;
+        top: 260px;
+        left: 100px;
+        background: #fff;
+        overflow-x: hidden;
+        padding: 8px 0;
+        box-shadow: 0px 0px 150px rgb(247, 196, 166);
+      }
+      
+      .sidenav a {
+         padding: 6px 0px 6px 0px;
+        text-decoration: none;
+        text-align: center;
+        font-size: 18px;
+        color: rgb(10, 10, 10);
+        display: block;
+      }
+      button:focus { 
+         background-color: rgb(245, 113, 37);
+         color:#fff;
+       }
+      @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 18px;}
+      }
+      
+      .btn{
+        background-color: #fff;
+        border-radius: 10px;
+        padding:8px 55px 8px 55px;
+      }
+      .btn1{
+        padding:8px 60px 8px 60px;
+      }
+      .btn2, .btn4{
+        padding:8px 50px 8px 50px;
+      }
+      .btn3, .btn5{
+        padding:8px 75px 8px 75px;
+      }
+
+      

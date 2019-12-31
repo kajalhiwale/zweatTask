@@ -1,0 +1,26 @@
+body{
+    overflow: hidden;
+}
+.breadcrumb{
+    background-color: transparent;
+    margin:auto;
+    margin-left:90px;
+    margin-top:40px;
+}
+li a{
+    color:#000;
+    font-weight: normal;
+}
+.ico{
+    margin-left: 120px;
+    font-size: 45px;
+    margin-top: 10px;
+    color:rgba(245, 113, 37,0.4);
+}
+.fa-ellipsis-v{
+    padding-left: 4px;;
+}
+h3{
+    margin:50px 0px 0px 450px;
+    color:rgb(245, 113, 37);
+}

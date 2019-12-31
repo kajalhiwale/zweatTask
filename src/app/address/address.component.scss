@@ -1,0 +1,98 @@
+body{
+    overflow: hidden;
+    font-weight: normal;
+}
+.breadcrumb{
+    background-color: transparent;
+    margin:auto;
+    margin-left:90px;
+    margin-top:40px;
+}
+li a{
+    color:#000;
+    font-weight: normal;
+}
+.ico{
+    margin-left: 120px;
+    font-size: 45px;
+    margin-top: 10px;
+    color:rgba(245, 113, 37,0.4);
+}
+.fa-ellipsis-v{
+    padding-left: 4px;;
+}
+h4{
+    margin:5px 0px 0px 420px;
+    color:rgb(245, 113, 37);
+    font-weight: bold;
+}
+.pp{
+    margin:15px 0px 0px 420px;
+    font-weight: normal;
+}
+.card{
+    margin:30px 700px 0px 420px;
+    box-shadow: 0px 0px 50px rgb(236, 233, 231);
+}
+.card-text{
+    margin:0px 0px 0px 0px;
+}
+.card-header, .card-footer{
+    background-color:rgb(245, 113, 37) ;
+}
+.fa-trash-alt{
+    float: right;
+    margin-right: 20px;
+    color:rgb(252, 246, 246);
+}
+.fa-edit{
+    color:rgb(252, 246, 246);
+    margin-left: 20px;
+}
+.fa1{
+    color:rgb(245, 113, 37) ;
+}
+.card1{
+    margin:30px 0px 0px 420px;
+    box-shadow: 0px 0px 50px rgb(236, 233, 231);
+}
+.card2{
+    margin:30px 410px 0px 10px;
+    box-shadow: 0px 0px 50px rgb(236, 233, 231);
+}
+.card-header1, .card-footer1{
+    background-color:rgba(112, 109, 109, 0.3);
+}
+.btn-outline-dark{
+    margin:50px 0px 20px 420px;
+    border-radius: 20px;
+}
+.bttn{
+    margin:50px 0px 20px 550px;
+    border-radius: 20px;
+    background-color:rgb(245, 113, 37);
+    color: #fff;
+}
+
+footer{
+    margin-top: 70px;
+}
+hr{
+    background-color:rgb(245, 113, 37);
+}
+.p1{
+    color:rgb(245, 113, 37);
+    font-weight: normal;
+}
+p{
+    font-weight: normal; 
+}
+.ran-text{
+    margin-top:30px;
+    color:rgb(110, 109, 109);
+}
+.faq{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+}
